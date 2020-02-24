@@ -1,0 +1,4 @@
+Init:Zero 0s=529  1s=471  agree=1000
+Init:One  0s=497  1s=503  agree=1000
+Press any key to continue...
+

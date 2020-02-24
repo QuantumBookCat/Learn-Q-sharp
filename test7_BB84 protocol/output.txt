@@ -1,0 +1,44 @@
+16 bits :
+
+Alice :
+bits
+0111001111110011
+bases
+0010100100000000
+generate photons
+01-1+01-11110011
+Bob :
+bases
+XXXXXXXXZXXZZXXX
+measurement result :
+1110011110110101
+Alice_key :
+101110
+Bob_key :
+101110
+0%
+final key :
+Key: [1,1,0]
+
+-------------------------------------
+25 bits :
+
+Alice :
+bits
+1001001101110110101010010
+bases
+1110000000010111100100111
+generate photons
+-++10011011-0--+-01+10+-+
+Bob :
+bases
+ZXZZZXXZZZZXXXXZZXXXXXZXZ
+measurement result :
+0001001101111110111010110
+Alice_key :
+010101111101
+Bob_key :
+010101111101
+0%
+final key :
+Key: [1,1,1,1,0,1]

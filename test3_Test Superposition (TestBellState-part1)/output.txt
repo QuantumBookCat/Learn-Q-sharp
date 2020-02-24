@@ -1,0 +1,17 @@
+1. without "X(qubit);" and "H(qubit);" in operation TestBellState
+
+Init:Zero 0s=1000 1s=0
+Init:One  0s=0    1s=1000
+Press any key to continue...
+
+2. add "X(qubit);" into operation TestBellState
+
+Init:Zero 0s=0    1s=1000
+Init:One  0s=1000 1s=0
+Press any key to continue...
+
+3. replace "X(qubit);" with "H(qubit);" in operation TestBellState
+
+Init:Zero 0s=477  1s=523
+Init:One  0s=494  1s=506
+Press any key to continue...
